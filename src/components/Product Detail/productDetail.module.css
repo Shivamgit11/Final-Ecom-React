@@ -1,0 +1,30 @@
+.img{
+    margin-top: 80px;
+    padding: 80px;
+    transition: transform .2s;
+}
+
+.img:hover {
+    transform: scale(2.5); 
+  }
+
+.title {
+    margin-left: 50px;
+}
+
+.section {
+    display: flex;
+}
+
+.reviews {
+    padding: 20px;
+}
+
+.img2{
+    margin-top: 60px;
+    padding: 30px;
+    width: 150px;
+    height: 150px;
+   
+}
+

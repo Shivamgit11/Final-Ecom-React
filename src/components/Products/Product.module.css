@@ -1,0 +1,30 @@
+.list {
+    text-align: center;
+    float: left;
+    zoom: 1;
+    margin: 1rem;
+    list-style: none;
+    margin-left: 15rem;
+    margin-bottom: 0rem;
+    padding: 5px;
+    border: 4px solid black;
+    background-color: skyblue;
+}
+
+.img1 {
+  height: 250px;
+  width: 250px;
+
+}
+
+.button1 {
+  display: flex;
+  padding: 15px;
+  background-color: red;
+  border: none;
+  border-radius: 15px;
+  border: 5px solid black;
+  margin: auto;
+  cursor: pointer;
+}
+
