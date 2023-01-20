@@ -25,16 +25,16 @@ const ProductDetail = (props) => {
         <p className={classes.reviews}> @shivam01 </p>
         <p>⭐⭐⭐⭐</p>
         <p> Great product. Must buy</p>
-        <p className={classes.reviews}> rhea43 </p>
+        <p className={classes.reviews}> albela </p>
         <p>⭐⭐</p>
         <p> Do not buy this</p>
-        <p className={classes.reviews}> aryanshi178 </p>
+        <p className={classes.reviews}> gopi </p>
         <p>⭐⭐⭐⭐</p>
         <p> Excellent will buy again</p>
-        <p className={classes.reviews}> aryanshi178 </p>
+        <p className={classes.reviews}> Virat </p>
         <p>⭐⭐⭐⭐</p>
         <p> Excellent will buy again</p>
-        <p className={classes.reviews}> aryanshi178 </p>
+        <p className={classes.reviews}> shartma </p>
         <p>⭐⭐⭐⭐</p>
         <p> Excellent will buy again</p>
         </div>
@@ -56,16 +56,16 @@ const ProductDetail = (props) => {
         <p className={classes.reviews}> @shivam01 </p>
         <p>⭐⭐⭐⭐</p>
         <p> Great product. Must buy</p>
-        <p className={classes.reviews}> rhea43 </p>
+        <p className={classes.reviews}> Lalaji </p>
         <p>⭐⭐</p>
         <p> Do not buy this</p>
-        <p className={classes.reviews}> aryanshi178 </p>
+        <p className={classes.reviews}> Priyatma </p>
         <p>⭐⭐⭐⭐</p>
         <p> Excellent will buy again</p>
-        <p className={classes.reviews}> aryanshi178 </p>
+        <p className={classes.reviews}> aaryan22 </p>
         <p>⭐⭐⭐⭐</p>
         <p> Excellent will buy again</p>
-        <p className={classes.reviews}> aryanshi178 </p>
+        <p className={classes.reviews}> katapa </p>
         <p>⭐⭐⭐⭐</p>
         <p> Excellent will buy again</p>
         </div>

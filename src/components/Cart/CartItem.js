@@ -18,7 +18,7 @@ const CartItem = (props) => {
 
     axios
     .post(
-      `https://crudcrud.com/api/2f2f6ee20d6e4b33a55c67b00bd70e57/cart${email}`, props)
+      `https://crudcrud.com/api/60dd19a7917443068230445a9fcc8153/cart${email}`, props)
     .then((res) => {
       console.log(res.data, "Successfull");
     })
@@ -32,7 +32,7 @@ const CartItem = (props) => {
     cartCntx.removeItem(props);
     const id= (props.id);
     console.log(id)
-    axios.delete( `https://crudcrud.com/api/2f2f6ee20d6e4b33a55c67b00bd70e57/cart${email}/${id}`)
+    axios.delete( `https://crudcrud.com/api/60dd19a7917443068230445a9fcc8153/cart${email}/${id}`)
 
     
 
